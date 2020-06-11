@@ -1,0 +1,7 @@
+com\demo\model\Contact.class
+com\demo\controller\HomeController.class
+com\demo\controller\ProductController.class
+com\demo\model\Products.class
+com\demo\SpringSecurityApplication.class
+com\demo\DAO\ProductDAO.class
+com\demo\repository\ProductsRepository.class
